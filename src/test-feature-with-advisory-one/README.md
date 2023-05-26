@@ -7,7 +7,7 @@ A feature to test features with advisory.
 
 ```json
 "features": {
-    "ghcr.io/chrmarti/test-features/test-feature-with-advisory-one:1": {}
+    "ghcr.io/chrmarti/test-features/test-feature-with-advisory-one:2": {}
 }
 ```
 
