@@ -1,6 +1,6 @@
 {
     "name": "Test Disallowed Feature",
     "id": "test-disallowed-feature",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A feature to test disallowed features."
 }
