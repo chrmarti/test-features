@@ -15,6 +15,9 @@ jobs:
         features:
           - color
           - hello
+          - test-disallowed-feature
+          - test-feature-with-advisory-one
+          - test-feature-with-advisory-two
         baseImage:
           - debian:latest
           - ubuntu:latest
