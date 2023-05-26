@@ -7,7 +7,7 @@ A feature to test disallowed features.
 
 ```json
 "features": {
-    "ghcr.io/chrmarti/test-features/test-disallowed-feature:1": {}
+    "ghcr.io/chrmarti/test-features/test-disallowed-feature:3": {}
 }
 ```
 
